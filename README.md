@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working on:
-> * [Volunteer Management Backend](https://github.com/ari-denary/volunteer-management-backend)
+> * [Volunteer Management Frontend](https://github.com/ari-denary/volunteer-management-frontend)
 
 ## 🧑🏻‍💻 Technologies I frequently use: 
 
