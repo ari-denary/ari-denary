@@ -9,7 +9,7 @@
 
 
 ## 🧗🏻 Currently leveling up in:
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.nBILDpXbxUWYdPQ16GTwyQHaEK%26pid%3DApi&f=1&ipt=a609eaa9985243ee6bda853661c31c868226f071234bcd5fd135809ddcc753ec&ipo=images" width="70" height="50">
+- Typescript
 
 <!--
 **ari-denary/ari-denary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
